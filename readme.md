@@ -2,6 +2,8 @@
 
 **Paper:** https://arxiv.org/abs/2002.05638
 
+**Network** https://github.com/giddyyupp/ganilla
+
 ## Content
 
 This repo contain my own model train with ganilla. The goal is to test the ganilla network on custom datasets to transform a [landscape](https://www.kaggle.com/arnaud58/landscape-pictures) pictures into [*the witness game*](https://www.kaggle.com/arnaud58/the-witness) style. The two datasets are on kaggle and are create by myself.
